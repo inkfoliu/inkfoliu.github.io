@@ -1,4 +1,4 @@
-baseurl = "https://youthful-meitner-65f910.netlify.com"
+baseurl = "inkfoliu.github.io"
 title = "Ying Ying Liu"
 theme = "dimension"
 languageCode = "en-us"
@@ -37,8 +37,8 @@ disableKinds=["RSS"]
 languageName = "English"
 weight = 1
 
-[languages.de]
-languageName = "Deutsch"
+[languages.fr]
+languageName = "French"
 weight = 2
 title = "Dimension"
 description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
