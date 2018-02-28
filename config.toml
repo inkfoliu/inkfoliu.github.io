@@ -30,14 +30,3 @@ disableKinds=["RSS"]
   medium = "github"
   icon = "github"
   link = "#"
-
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
-
-[languages.fr]
-languageName = "French"
-weight = 2
-title = "Ying Ying Liu"
-description = '<!--[-->Une fille dans sa dernière année du bac qui procrastine en apprenant à coder au lieu d'écrire sa thèse.<!--]--><br />
