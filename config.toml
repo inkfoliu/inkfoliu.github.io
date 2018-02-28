@@ -1,0 +1,43 @@
+baseurl = "http://inkfoliu.github.io"
+title = "Ying Ying Liu"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->A busy final year undergrad learning to code to procrastinate on writing her thesis.<!--]-->
+  logo = "fa-diamond"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.fr]
+languageName = "French"
+weight = 2
+title = "Ying Ying Liu"
+description = '<!--[-->Une fille dans sa dernière année du bac qui procrastine en apprenant à coder au lieu d'écrire sa thèse.<!--]--><br />
